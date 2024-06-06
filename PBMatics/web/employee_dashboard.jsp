@@ -54,7 +54,7 @@
 
 
    <button class="btn btn-primary">
-   	   <a href="logout.html">Log Out</a>
+   	   <a href="logout.jsp">Log Out</a>
    </button>
 
    <div class="container-fluid text-center">
