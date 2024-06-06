@@ -1,0 +1,20 @@
+SMAP
+display_005fclient_005fpayment_jsp.java
+JSP
+*S JSP
+*F
++ 0 display_client_payment.jsp
+display_client_payment.jsp
+*L
+1,53:45
+54,12:99
+65,2:111
+67,8:113,3
+75,3:137
+78:140,3
+79,6:143
+85:149,3
+86,7:152
+93,8:160
+100,5:168
+*E

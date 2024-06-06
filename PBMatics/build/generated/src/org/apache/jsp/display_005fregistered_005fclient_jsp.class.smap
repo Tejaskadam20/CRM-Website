@@ -1,0 +1,20 @@
+SMAP
+display_005fregistered_005fclient_jsp.java
+JSP
+*S JSP
+*F
++ 0 display_registered_client.jsp
+display_registered_client.jsp
+*L
+1,56:45
+57,12:102
+68,2:114
+70,10:116,3
+80,3:146
+83:149,3
+84,6:152
+90:158,3
+91,7:161
+98,8:169
+105,5:177
+*E

@@ -1,0 +1,26 @@
+SMAP
+display_005fticketing_jsp.java
+JSP
+*S JSP
+*F
++ 0 display_ticketing.jsp
+display_ticketing.jsp
++ 1 header.html
+header.html
+*L
+1,21:50
+1#1,22:71
+21#0,33:92
+54,11:126
+64,3:137
+67,9:140,3
+76:167
+77:168,3
+78,4:171
+82:175,3
+83,6:178
+89:184,3
+90,6:187
+96,9:194
+104,8:203
+*E

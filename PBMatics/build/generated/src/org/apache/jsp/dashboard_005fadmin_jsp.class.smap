@@ -1,0 +1,16 @@
+SMAP
+dashboard_005fadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 dashboard_admin.jsp
+dashboard_admin.jsp
++ 1 brandname_with_SessionName.jsp
+brandname_with_SessionName.jsp
+*L
+1,60:49
+1#1,59:109
+60,4:169
+63,4:173
+60#0,120:177
+*E
